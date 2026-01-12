@@ -1,0 +1,7 @@
+{
+  "name": "ViralVision AI",
+  "description": "An AI-powered SEO and content strategy tool that analyzes images and videos to generate viral hooks, SEO-optimized descriptions, and clickbait thumbnail prompts for various social media platforms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
